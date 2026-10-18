@@ -1,15 +1,9 @@
 {
   "list": {
     "version": 1,
-    "serial": 2,
-    "issued": "2026-10-18T02:12:26+00:00",
-    "revoked": [
-      {
-        "id": "664666DEF325",
-        "why": "onon",
-        "at": "2026-10-17"
-      }
-    ]
+    "serial": 3,
+    "issued": "2026-10-18T02:12:32+00:00",
+    "revoked": []
   },
-  "signature": "4P-8dxdxKTL_Fk-0YiZIEYzsnuzvupXvw_ocbCQMwPj8NpcA0q8cWO-sTMufj1c7CP_1txRYlcRF2k91haMtCQ"
+  "signature": "J1sly4pZ6U66upTB3OaBYk5ZqzCZt5tPXrS0-iZMXXS4iCdhsV_W4BuAcGWPKaN7Qfl_pLj2GF-_yrQUP7YwCA"
 }
